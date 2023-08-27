@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c175f194-077f-44f9-a39a-b9a6b12fc33c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex4/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDA2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5/Ex5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,7 @@
       <updated>1692425568820</updated>
       <workItem from="1692425569938" duration="8613000" />
       <workItem from="1693076812811" duration="6139000" />
-      <workItem from="1693148539563" duration="1585000" />
+      <workItem from="1693148539563" duration="2124000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -111,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693148299168</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cel mai lung cuvant din lista">
+      <option name="closed" value="true" />
+      <created>1693152464037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693152464037</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +124,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="numarul de triplete" />
-    <option name="LAST_COMMIT_MESSAGE" value="numarul de triplete" />
+    <MESSAGE value="cel mai lung cuvant din lista" />
+    <option name="LAST_COMMIT_MESSAGE" value="cel mai lung cuvant din lista" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
