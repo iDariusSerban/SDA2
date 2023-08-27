@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c175f194-077f-44f9-a39a-b9a6b12fc33c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgoritmiCautare/CautareBinara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgoritmiSortare/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgoritmiSortare/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Candidat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Election.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3/NumarulDeTriplete.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,12 +88,25 @@
       <option name="presentableId" value="Default" />
       <updated>1692425568820</updated>
       <workItem from="1692425569938" duration="8613000" />
-      <workItem from="1693076812811" duration="4813000" />
+      <workItem from="1693076812811" duration="5931000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1693146296178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693146296178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
