@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c175f194-077f-44f9-a39a-b9a6b12fc33c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex5/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex10/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6/Ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,7 @@
       <updated>1692425568820</updated>
       <workItem from="1692425569938" duration="8613000" />
       <workItem from="1693076812811" duration="6139000" />
-      <workItem from="1693148539563" duration="2124000" />
+      <workItem from="1693148539563" duration="12070000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -115,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693152464037</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="gaseste indexul celei de-a k aparitii a numarului n in array">
+      <option name="closed" value="true" />
+      <created>1693153151293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693153151293</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +135,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="numarul de triplete" />
     <MESSAGE value="cel mai lung cuvant din lista" />
-    <option name="LAST_COMMIT_MESSAGE" value="cel mai lung cuvant din lista" />
+    <MESSAGE value="gaseste indexul celei de-a k aparitii a numarului n in array" />
+    <option name="LAST_COMMIT_MESSAGE" value="gaseste indexul celei de-a k aparitii a numarului n in array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -154,6 +165,11 @@
           <url>file://$PROJECT_DIR$/src/Ex1/Main.java</url>
           <line>16</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex10/Palindrom.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
