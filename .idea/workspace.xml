@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c175f194-077f-44f9-a39a-b9a6b12fc33c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ex7/ArrayBidimensional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex6/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex6/Ex6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Atelier Felis/IdeaProjects/SDA2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Atelier Felis/IdeaProjects/SDA2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="BubbleSort" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgoritmiSortare.BubbleSort" />
@@ -90,7 +90,8 @@
       <updated>1692425568820</updated>
       <workItem from="1692425569938" duration="8613000" />
       <workItem from="1693076812811" duration="6139000" />
-      <workItem from="1693148539563" duration="15087000" />
+      <workItem from="1693148539563" duration="15134000" />
+      <workItem from="1693546300381" duration="2794000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -132,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693247458780</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ex 6 - local date">
+      <option name="closed" value="true" />
+      <created>1693460541760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693460541760</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +153,8 @@
     <MESSAGE value="cel mai lung cuvant din lista" />
     <MESSAGE value="gaseste indexul celei de-a k aparitii a numarului n in array" />
     <MESSAGE value="Ex 10 - Palindrom" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex 10 - Palindrom" />
+    <MESSAGE value="Ex 6 - local date" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex 6 - local date" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -178,6 +188,11 @@
           <url>file://$PROJECT_DIR$/src/Ex10/Palindrom.java</url>
           <line>56</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7/ArrayBidimensional.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
